@@ -1,0 +1,42 @@
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Weather Forecast.exe
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Weather Forecast.deps.json
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Weather Forecast.runtimeconfig.json
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Weather Forecast.pdb
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather_Forecast.Form1.resources
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather_Forecast.Properties.Resources.resources
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.AssemblyInfo.cs
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\refint\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.pdb
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.genruntimeconfig.cache
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\ref\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.CopyComplete
+C:\Users\andre\source\repos\WeatherForecast\Weather Forecast\bin\Debug\net6.0-windows\GeoTimeZone.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Weather Forecast.exe
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Weather Forecast.deps.json
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Weather Forecast.runtimeconfig.json
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Weather Forecast.pdb
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\GeoTimeZone.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather_Forecast.Form1.resources
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather_Forecast.Properties.Resources.resources
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.AssemblyInfo.cs
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.csproj.CopyComplete
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\refint\Weather Forecast.dll
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.pdb
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\Weather Forecast.genruntimeconfig.cache
+C:\Users\andre\source\repos\WeatherForecast\WeatherForecast\obj\Debug\net6.0-windows\ref\Weather Forecast.dll
